@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: #ff00ff; stop-opacity: 1;" />
+      <stop offset="100%" style="stop-color: #ff77aa; stop-opacity: 1;" />
+    </linearGradient>
+    <linearGradient id="fireGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #ff4500;" />
+      <stop offset="100%" style="stop-color: #ffcc00;" />
+    </linearGradient>
+    <linearGradient id="waterGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #00bfff;" />
+      <stop offset="100%" style="stop-color: #0000ff;" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#bgGradient)" />
+
+  <!-- Yin-yang shape -->
+  <circle cx="200" cy="200" r="150" fill="url(#bgGradient)" />
+
+  <!-- Fire section -->
+  <path
+    d="M200,50 
+       A150,150 0 0 1 350,200 
+       A75,75 0 0 0 200,200 
+       A75,75 0 0 1 200,50 Z"
+    fill="url(#fireGradient)"
+  />
+  <circle cx="200" cy="125" r="25" fill="url(#fireGradient)" />
+
+  <!-- Water section -->
+  <path
+    d="M200,350 
+       A150,150 0 0 1 50,200 
+       A75,75 0 0 0 200,200 
+       A75,75 0 0 1 200,350 Z"
+    fill="url(#waterGradient)"
+  />
+  <circle cx="200" cy="275" r="25" fill="url(#waterGradient)" />
+</svg>
+
