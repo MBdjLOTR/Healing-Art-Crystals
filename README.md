@@ -8,7 +8,7 @@ This dynamic art portfolio showcases a collection of captivating fantasy charact
 - **Full Gallery**: Users can browse through an extensive gallery, where each character image provides a brief description upon clicking, immersing users in the fantasy narratives.
 - **About the Artist**: Delivers insights into the artist’s background, inspirations, and creative journey.
 
-The interactive design ensures an intuitive navigation experience, making it easy for users to explore and appreciate the art. The incorporation of an animated logo adds a touch of flair, enhancing the visual appeal and engagement.
+The interactive design ensures an intuitive navigation experience, making it easy for users to explore and appreciate the art. The incorporation of an animated logo adds a touch of flair, enhancing the visual appeal and engagement. A demo of the website is given in the video below.
 
 [![Watch the website demo video](https://raw.githubusercontent.com/MBdjLOTR/Healing_art-Crytsals/master/dynamic_yin_yang.jpg)](https://raw.githubusercontent.com/MBdjLOTR/Healing_art-Crytsals/master/96cf070bbb53440c85eb246584d839e9_lZF0TQru(1).mp4)
 
