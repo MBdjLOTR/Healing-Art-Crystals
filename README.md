@@ -1,5 +1,17 @@
+**Art Portfolio Project**
 
-[![Watch the video](.jpg)](https://go.screenpal.com/watch/cTVqbPnfid2)
+This dynamic art portfolio showcases a collection of captivating fantasy characters, including iconic figures like those from "Lord of the Rings" and "Mother of Dragons." Utilizing Node.js for the backend and React.js for the frontend, the website offers a seamless user experience across its three main pages: Home, Full Gallery, and About the Artist.
+
+### Features
+
+- **Home Page**: Displays an overview of the artwork with a featured character and an elegant, animated logo.
+- **Full Gallery**: Users can browse through an extensive gallery, where each character image provides a brief description upon clicking, immersing users in the fantasy narratives.
+- **About the Artist**: Delivers insights into the artist’s background, inspirations, and creative journey.
+
+The interactive design ensures an intuitive navigation experience, making it easy for users to explore and appreciate the art. The incorporation of an animated logo adds a touch of flair, enhancing the visual appeal and engagement.
+
+[![Watch the website demo video](https://raw.githubusercontent.com/MBdjLOTR/Healing_art-Crytsals/master/dynamic_yin_yang.jpg)](https://raw.githubusercontent.com/MBdjLOTR/Healing_art-Crytsals/master/96cf070bbb53440c85eb246584d839e9_lZF0TQru(1).mp4)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
