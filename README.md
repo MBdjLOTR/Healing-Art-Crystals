@@ -9,7 +9,7 @@ This dynamic art portfolio showcases a collection of captivating fantasy charact
 - **About the Artist**: Delivers insights into the artist’s background, inspirations, and creative journey.
 
 The interactive design ensures an intuitive navigation experience, making it easy for users to explore and appreciate the art. The incorporation of an animated logo adds a touch of flair, enhancing the visual appeal and engagement. A demo of the website is given in the video below.
-[![Loom demo video](https://www.loom.com/share/96cf070bbb53440c85eb246584d839e9?sid=e884ee97-a1d3-446f-bb37-ac096dfa1bb5)
+[![Loom demo video](https://raw.githubusercontent.com/MBdjLOTR/Healing_art-Crytsals/master/dynamic_yin_yang.jpg)](https://www.loom.com/share/96cf070bbb53440c85eb246584d839e9?sid=e884ee97-a1d3-446f-bb37-ac096dfa1bb5)
 [![Watch the website demo video](https://raw.githubusercontent.com/MBdjLOTR/Healing_art-Crytsals/master/dynamic_yin_yang.jpg)](https://go.screenpal.com/watch/cTVqbPnfid2)
 
 
